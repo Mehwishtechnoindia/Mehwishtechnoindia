@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehwishtechnoindia
 - 👀 My Name is Mehwish Chand
 - 🌱 I’m Learner
-- 💞️ I’m currently learning in Techn o India University
+- 💞️ I’m currently learning in Techno India University
 - 📫 This is My Github Account.
 
 
